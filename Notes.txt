@@ -1,0 +1,6 @@
+Fred#do_something - instance method
+Fred.new          - class method
+Fred::EOF         - class constant
+
+End of file character - Ctrl-D
+irb - interactive ruby
